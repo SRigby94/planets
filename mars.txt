@@ -1,2 +1,3 @@
 Mars:
 Mars is red
+and Dry
